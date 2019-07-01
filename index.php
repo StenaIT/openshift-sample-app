@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello from OpenShift on Azure! woohoo";
+echo "Hello from OpenShift on Azure! 2";
 
